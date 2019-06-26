@@ -1,6 +1,6 @@
 ITKTwoProjectionRegistration
 ============================
-
+https://discourse.itk.org/t/create-drr-image-from-chest-ct-scan/1370
 .. image:: https://dev.azure.com/InsightSoftwareConsortium/ITKModules/_apis/build/status/InsightSoftwareConsortium.ITKTwoProjectionRegistration?branchName=master
     :target: https://dev.azure.com/InsightSoftwareConsortium/ITKModules/_build/latest?definitionId=13&branchName=master
     :alt: Build Status
