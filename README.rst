@@ -1,3 +1,4 @@
+https://discourse.itk.org/t/create-drr-image-from-chest-ct-scan/1370
 ITKTwoProjectionRegistration
 ============================
 https://discourse.itk.org/t/create-drr-image-from-chest-ct-scan/1370
